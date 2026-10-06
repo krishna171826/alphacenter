@@ -3,7 +3,7 @@ function Navbar() {
         <header className="border-b border-[#edf2f7] bg-white">
             <nav className="mx-auto flex h-17 max-w-277.5 items-center justify-center px-6 lg:px-0">
                 <a href="/" className="flex items-center gap-2">
-                    <img src="/src/assets/alphalogo.png" 
+                    <img src="src/assets/alphalogo.png" 
                     alt="Alpha Logo" 
                     className="h-12 w-12 object-contain"
                     />
